@@ -2,9 +2,9 @@
   "apps": [
     {
       "serverURL": "https://parse-server-reinto-ceskaobec.herokuapp.com/parse",
-      "appId": "30012017",
-      "masterKey": "Reinto2017",
-      "appName": "Reinto Parse Server App"
+      "appId": "FQqJiu21jDtlOacq8eO04dyi7p3urQ7CdESCFfuP",
+      "masterKey": "zz0NfCGKdQVQwUY67gTxAT319Nv1yURFNY13AQSW",
+      "appName": "Ceska Obec"
     }
   ],
   "users": [
